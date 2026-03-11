@@ -7,7 +7,7 @@
     close = true,
     description = 'A pack with 10 cigarettes.',
     client = {
-        export = 'onyx-smokes.cigarettePack'
+        export = 'onyx-smoke.cigarettePack'
     }
 },
 
@@ -18,7 +18,7 @@
     close = true,
     description = 'Smokeable cigarette.',
     client = {
-        export = 'onyx-smokes.cigarette'
+        export = 'onyx-smoke.cigarette'
     }
 },
 
@@ -29,7 +29,7 @@
     close = true,
     description = 'A pack with 10 snus pouches.',
     client = {
-        export = 'onyx-smokes.snusPack'
+        export = 'onyx-smoke.snusPack'
     }
 },
 
@@ -40,6 +40,7 @@
     close = true,
     description = 'A snus pouch.',
     client = {
-        export = 'onyx-smokes.snus'
+        export = 'onyx-smoke.snus'
     }
+
 },
